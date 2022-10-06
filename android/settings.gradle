@@ -1,4 +1,4 @@
-rootProject.name = 'czy0729.bangumi'
+rootProject.name = 'yzm1006.bangumi'
 
 apply from: '../node_modules/react-native-unimodules/gradle.groovy'
 includeUnimodulesProjects([exclude:["expo-location"]])

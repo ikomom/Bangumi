@@ -1,4 +1,4 @@
-package com.czy0729.bangumi;
+package com.yzm1006.bangumi;
 
 import com.umeng.analytics.MobclickAgent;
 import com.umeng.commonsdk.UMConfigure;
@@ -38,7 +38,7 @@ public class MainActivity extends ReactActivity {
     @Override
     protected String getMainComponentName() {
         return "main";
-        // return "czy0729.bangumi";
+        // return "yzm1006.bangumi";
     }
 
     @Override

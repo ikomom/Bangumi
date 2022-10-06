@@ -1,4 +1,4 @@
-package com.czy0729.bangumi.AndroidKeyboardAdjust;
+package com.yzm1006.bangumi.AndroidKeyboardAdjust;
 
 import android.app.Activity;
 

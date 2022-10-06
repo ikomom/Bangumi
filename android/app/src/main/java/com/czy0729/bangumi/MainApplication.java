@@ -1,4 +1,4 @@
-package com.czy0729.bangumi;
+package com.yzm1006.bangumi;
 
 import android.app.Application;
 import android.content.Context;
@@ -10,7 +10,7 @@ import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
 import com.facebook.soloader.SoLoader;
-import com.czy0729.bangumi.generated.BasePackageList;
+import com.yzm1006.bangumi.generated.BasePackageList;
 import org.unimodules.adapters.react.ReactAdapterPackage;
 import org.unimodules.adapters.react.ModuleRegistryAdapter;
 import org.unimodules.adapters.react.ReactModuleRegistryProvider;
@@ -26,10 +26,10 @@ import java.util.Arrays;
 import java.util.List;
 import javax.annotation.Nullable;
 import com.umeng.commonsdk.UMConfigure;
-import com.czy0729.bangumi.umeng.DplusReactPackage;
-import com.czy0729.bangumi.umeng.RNUMConfigure;
-import com.czy0729.bangumi.daynight.DayNightPackage;
-import com.czy0729.bangumi.AndroidKeyboardAdjust.AndroidKeyboardAdjustPackage;
+import com.yzm1006.bangumi.umeng.DplusReactPackage;
+import com.yzm1006.bangumi.umeng.RNUMConfigure;
+import com.yzm1006.bangumi.daynight.DayNightPackage;
+import com.yzm1006.bangumi.AndroidKeyboardAdjust.AndroidKeyboardAdjustPackage;
 
 import com.facebook.react.bridge.JSIModulePackage;
 import com.swmansion.reanimated.ReanimatedJSIModulePackage;

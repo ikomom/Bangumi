@@ -1,4 +1,4 @@
-package com.czy0729.bangumi.umeng;
+package com.yzm1006.bangumi.umeng;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package com.czy0729.bangumi.generated;
+package com.yzm1006.bangumi.generated;
 
 import java.util.Arrays;
 import java.util.List;

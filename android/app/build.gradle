@@ -140,7 +140,7 @@ android {
   compileSdkVersion rootProject.ext.compileSdkVersion
 
   defaultConfig {
-    applicationId "com.czy0729.bangumi"
+    applicationId "com.yzm1006.bangumi"
     minSdkVersion rootProject.ext.minSdkVersion
     targetSdkVersion rootProject.ext.targetSdkVersion
     versionCode expoVersionCode

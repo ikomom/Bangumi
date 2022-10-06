@@ -4,7 +4,7 @@
     "version": "7.1.2",
     "android": {
       "versionCode": 70120,
-      "package": "com.czy0729.bangumi",
+      "package": "com.yzm1006.bangumi",
       "adaptiveIcon": {
         "foregroundImage": "./src/assets/images/foreground.png",
         "backgroundColor": "#000000"

@@ -27,7 +27,7 @@ Bangumi 是用于管理追番进度（不限于动漫、音乐、日剧、游戏
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
     alt="Get it on F-Droid"
-    height="64">](https://f-droid.org/packages/com.czy0729.bangumi)
+    height="64">](https://f-droid.org/packages/com.yzm1006.bangumi)
 
 Google Play 被恶意举报已被暂停申诉无果，因为不同渠道包互斥，只能建议之前使用此渠道的用户卸载后使用其他渠道
 
@@ -194,4 +194,4 @@ react-native run-android // [android] 真机 usb 调试
 
 ## 统计
 
-![czy0729.bangumi](https://visitor-badge.glitch.me/badge?page_id=czy0729.bangumi)
+![yzm1006.bangumi](https://visitor-badge.glitch.me/badge?page_id=yzm1006.bangumi)

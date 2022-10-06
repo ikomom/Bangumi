@@ -1,4 +1,4 @@
-package com.czy0729.bangumi.daynight;
+package com.yzm1006.bangumi.daynight;
 
 import android.app.Activity;
 
